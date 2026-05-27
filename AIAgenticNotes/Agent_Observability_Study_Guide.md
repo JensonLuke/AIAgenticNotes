@@ -1,4 +1,4 @@
-# Week 8: Agent Observability, Evaluation & Safety
+# Agent Observability, Evaluation & Safety
 ## Complete Study Guide
 
 ---
